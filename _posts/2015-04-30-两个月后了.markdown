@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "两个月后"
+date:   2015-04-30 23:16:30
+categories: jekyll update
+---
+   当初的想法是能够写blog坚持下去，而现今两个月过去了没有总结什么有用的信息，这里多多的反思一下自己吧。
